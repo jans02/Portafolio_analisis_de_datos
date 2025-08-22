@@ -4,8 +4,11 @@
 📊 Te doy la bienvenida a mi portafolio de análisis de datos, un espacio donde encontrarás proyectos y contenidos relacionados con:
 
 🐍 Python
+
 📈 Power BI
+
 🗄️ SQL
+
 📊 Excel Avanzado
 
 ✨ Espero que este portafolio sea un aporte y te invite a explorar cómo los datos pueden transformar ideas en decisiones inteligentes.
