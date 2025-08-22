@@ -1,4 +1,4 @@
-# ✌🏼 Mi nombre es jans Gonzalez Juica
+# Hola✌🏼 Mi nombre es jans Gonzalez Juica
 👨‍💼 Soy <strong>Ingeniero Civil Industrial</strong>, titulado en la Universidad de La Serena. Actualmente me desempeño como Secretario Técnico en EMIN Ingeniería y Construcción, donde aplico mis conocimientos en gestión y procesos. Mi principal motivación hoy en día es el análisis de datos, dado el rol fundamental que cumple en la toma de decisiones estratégicas dentro de las organizaciones.
 
 📊 Te doy la bienvenida a mi portafolio de análisis de datos, un espacio donde encontrarás proyectos y contenidos relacionados con:
