@@ -3,10 +3,8 @@
 
 📊 Te doy la bienvenida a mi portafolio de análisis de datos, un espacio donde encontrarás proyectos y contenidos relacionados con:
 
-🐍 Python
-
-📈 Power BI
-
+- 🐍 Python
+- 📈 Power BI
 🗄️ SQL
 
 📊 Excel Avanzado
