@@ -11,7 +11,7 @@
 ✨ Espero que este portafolio sea un aporte y te invite a explorar cómo los datos pueden transformar ideas en decisiones inteligentes.
 
 
-📬 Contacto
+# 📬 Contacto
 Si te encuentras interesado en conocer más sobre mi experiencia como Analista de Datos y descubrir cómo puedo aportar valor a tu empresa, puedes contactarme a través de:
 🔗 LinkedIn: [Tu perfil aquí]
 📧 Correo: [Tu correo aquí]
