@@ -14,7 +14,7 @@
 # 📬 Contacto
 Si te encuentras interesado en conocer más sobre mi experiencia como Analista de Datos y descubrir cómo puedo aportar valor a tu empresa, puedes contactarme a través de:
 - 🔗 LinkedIn: [Tu perfil aquí]
- 📧 Correo: [Tu correo aquí]
+- 📧 Correo: [Tu correo aquí]
 - 📄 Currículum Vitae: [Enlace a tu CV aquí]
 
 🚀 Me encuentro abierto a nuevas oportunidades de crecimiento, en donde pueda generar valor y contribuir al éxito de los proyectos.
