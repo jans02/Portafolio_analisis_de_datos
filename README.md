@@ -1,8 +1,5 @@
 # ✌🏼 Mi nombre es jans Gonzalez Juica
-Recursos y ejercicios de Python y análisis de datos
-👨‍💼 ¡Hola!
-Soy Ingeniero Civil Industrial, titulado en la Universidad de La Serena.
-
+👨‍💼 Soy Ingeniero Civil Industrial, titulado en la Universidad de La Serena.
 📌 Actualmente me desempeño como Secretario Técnico en EMIN Ingeniería y Construcción, donde aplico mis conocimientos en gestión y procesos.
 
 💡 Mi principal motivación hoy en día es el análisis de datos, dado el rol fundamental que cumple en la toma de decisiones estratégicas dentro de las organizaciones.
