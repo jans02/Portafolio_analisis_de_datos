@@ -14,7 +14,7 @@
 # 📬 Contacto
 Si te encuentras interesado en conocer más sobre mi experiencia como Analista de Datos y descubrir cómo puedo aportar valor a tu empresa, puedes contactarme a través de:
 - 🔗 <a href="https://www.linkedin.com/in/jans-gonzalez/" target="_blank" title="Ver perfil de LinkedIn">LinkedIn</a>
-- 📧 Correo: [Tu correo aquí]
+- 📧 jans.gonzalezj@gmail.com
 - 📄 Currículum Vitae: [Enlace a tu CV aquí]
 
 🚀 Me encuentro abierto a nuevas oportunidades de crecimiento, en donde pueda generar valor y contribuir al éxito de los proyectos.
