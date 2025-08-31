@@ -2,6 +2,7 @@
 
 ## Contexto del Problema
 En análisis de datos es común encontrar **valores faltantes (missing values)**.  
+
 Estos pueden aparecer por diversas razones:
 
 - ❌ Errores de captura de información  
@@ -12,6 +13,7 @@ Estos pueden aparecer por diversas razones:
 La **presencia de datos faltantes** afecta la calidad del análisis, puede distorsionar modelos predictivos y comprometer la validez de los resultados. Por ello, es clave entender **su origen, impacto y tratamiento adecuado**.
 
 ---
+Es por esto que se realiza este ejemplo, para comprender e identificar lo que pueden generar los datos faltantes.
 
 ## 🎯 Objetivo del Análisis
 Evaluar la gestión de los **datos faltantes** considerando:
@@ -19,8 +21,11 @@ Evaluar la gestión de los **datos faltantes** considerando:
 - 📊 Identificar la proporción de valores ausentes en el dataset  
 - 📈 Analizar su impacto en métricas descriptivas y modelos predictivos  
 - 🔍 Revisar métodos de imputación estadística (media, mediana, moda)  
-- 🤖 Explorar técnicas avanzadas basadas en algoritmos predictivos (ej. KNN, regresión múltiple)  
-- ⚖️ Comparar ventajas y limitaciones de cada enfoque  
+- 🤖 Explorar técnicas avanzadas basadas en algoritmos predictivos (ej. KNN)  
+
+  Dicho análisis se realiza en la modificación de una data completa, a la cual se le elimina ciertos datos para poder lograr el objetivo
+
+Este procedimiento se puede [Scikit-learn Imputation](https://colab.research.google.com/drive/1hSh3hYJDZ3gYiVDcU23w-LVVN-oMBv6i?usp=sharing)
 
 ---
 
