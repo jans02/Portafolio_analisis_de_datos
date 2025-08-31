@@ -3,7 +3,7 @@
 ## Contexto del Negocio
 Este reporte presenta el desempeño comercial de la compañía durante los años **2019,2020,2021,2022**, tomando como referencia el tablero de **Ventas por Oficina**.  
 
-[Visualiza aquí]([https://github.com/tu-usuario](https://app.powerbi.com/view?r=eyJrIjoiZjE1OTA5YjUtZjg2OS00MWUwLWFjYzEtZjY2N2MwYWU5NDQ2IiwidCI6IjQ5ZWM5ZjUyLThlMjgtNGIyMC1hNDQxLTkyZWJmMjZjNTQ0YyIsImMiOjR9))
+[Visualiza aquí](https://app.powerbi.com/view?r=eyJrIjoiZjE1OTA5YjUtZjg2OS00MWUwLWFjYzEtZjY2N2MwYWU5NDQ2IiwidCI6IjQ5ZWM5ZjUyLThlMjgtNGIyMC1hNDQxLTkyZWJmMjZjNTQ0YyIsImMiOjR9)
 
 El análisis contempla:
 
