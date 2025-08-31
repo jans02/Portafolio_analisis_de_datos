@@ -7,6 +7,8 @@ Este reporte presenta el desempeño comercial de la compañía durante los años
 
 El análisis contempla:
 
+- Utilidades del periodo
+- Variación presupuestaria
 - Ventas por oficina  
 - Desempeño de cada vendedor  
 - Ventas distribuidas ppor estado  
@@ -29,10 +31,10 @@ Evaluar el desempeño de ventas durante 2022, considerando:
 ---
 
 ## 💡 Hallazgos Clave
-- **Utilidad del periodo**: $286 mil (**+4,34% sobre presupuesto**)  
-- **Unidades vendidas**: 37.873  
+- **Utilidad del periodo**: $286 mil (**+4,34% sobre lo presupuestado**)  
+- **Unidades vendidas**: 37.873 durante el periodo
 - **Periodo de entrega**: 4 días promedio  
-- **Ventas por vendedor**:  
+- **Vendedores destacados**:  
   - Anna Andrews → $725 mil  
   - Chuck Magee → $679 mil  
   - Kelly Williams → $501 mil  
@@ -45,37 +47,15 @@ Evaluar el desempeño de ventas durante 2022, considerando:
 
 ---
 
-## 📌 Ventas por Estado
-
-| Estado       | Ventas     | Año anterior | Var. anual |
-|--------------|------------|--------------|------------|
-| California   | $457.688   | $311.774     | **+47%**   |
-| Florida      | $89.474    | $63.029      | **+42%**   |
-| Illinois     | $80.166    | $55.815      | **+44%**   |
-| Michigan     | $76.270    | $50.436      | **+51%**   |
-| New York     | $310.876   | $216.953     | **+43%**   |
-| Ohio         | $78.258    | $55.042      | **+42%**   |
-| Pennsylvania | $116.512   | $73.824      | **+58%**   |
-| Texas        | $170.188   | $127.721     | **+33%**   |
-| Virginia     | $70.637    | $63.037      | **+12%**   |
-| Washington   | $138.641   | $73.101      | **+90%**   |
-
-📍 **Estados destacados**:  
-- Washington (+90%) y Pennsylvania (+58%) muestran mayor crecimiento.  
-- California y New York concentran el mayor volumen de ventas.  
-- Virginia, aunque positiva, presenta crecimiento limitado (+12%).  
-
----
-
 ## 📋 Conclusiones
-✅ 2022 cerró con **utilidad sólida y sobrecumplimiento presupuestario (+4,34%)**.  
-✅ La fuerza de ventas muestra liderazgo claro de Anna Andrews y Chuck Magee.  
-✅ **Estados como Washington, Pennsylvania y Michigan impulsan el crecimiento**.  
-✅ El portafolio sigue altamente concentrado en 3 productos principales.  
+✅ El cuatrienio cerró con **utilidad sólida y sobrecumplimiento presupuestario (+4,34%)**.  
+✅ Los vendedores mas destacadsos por su liderazgo claro de Anna Andrews y Chuck Magee.  
+✅ **Los estados de Washington, Pennsylvania y Michigan impulsan el crecimiento**.  
+✅ El portafolio de la compañia se encuentra concentrado en 3 productos principales.  
 
 ---
 
-## 🔑 Recomendaciones
+## 🔑 Recomendaciones/sugerencias
 - 🚀 Reforzar presencia comercial en **Washington, Pennsylvania y Michigan**.  
 - 🌎 Consolidar estrategias en **California y New York** para mantener volumen alto.  
 - 📉 Mejorar desempeño en **Virginia**, donde el crecimiento es bajo comparado al resto.  
