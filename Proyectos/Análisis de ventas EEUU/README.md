@@ -1,12 +1,15 @@
-# 📊 Ventas por Oficina — Resumen Ejecutivo 2022
+# 📊 Ventas por Oficina de Estado Unidos
 
 ## Contexto del Negocio
-Este reporte presenta el desempeño comercial de la compañía en **2022**, tomando como referencia el tablero de **Ventas por Oficina**.  
+Este reporte presenta el desempeño comercial de la compañía durante los años **2019,2020,2021,2022**, tomando como referencia el tablero de **Ventas por Oficina**.  
+
+[Visualiza aquí]([https://github.com/tu-usuario](https://app.powerbi.com/view?r=eyJrIjoiZjE1OTA5YjUtZjg2OS00MWUwLWFjYzEtZjY2N2MwYWU5NDQ2IiwidCI6IjQ5ZWM5ZjUyLThlMjgtNGIyMC1hNDQxLTkyZWJmMjZjNTQ0YyIsImMiOjR9))
+
 El análisis contempla:
 
 - Ventas por oficina  
-- Desempeño de vendedores  
-- Ventas por estado  
+- Desempeño de cada vendedor  
+- Ventas distribuidas ppor estado  
 - Cumplimiento mensual respecto al presupuesto  
 - Eficiencia operativa (unidades y tiempos de entrega)  
 
