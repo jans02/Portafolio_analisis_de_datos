@@ -5,10 +5,10 @@ En análisis de datos es común encontrar **valores faltantes (missing values)**
 
 Estos pueden aparecer por diversas razones:
 
-- ❌ Errores de captura de información  
-- 🕒 Retrasos en la actualización de sistemas  
-- 🔍 Datos no aplicables o no registrados  
-- 📋 Limitaciones en encuestas o mediciones  
+- ❌ Errores de captura de información.
+- 🕒 Retrasos en la actualización de sistemas.
+- 🔍 Datos no aplicables o no registrados.
+- 📋 Limitaciones en encuestas o mediciones.  
 
 La **presencia de datos faltantes** afecta la calidad del análisis, puede distorsionar modelos predictivos y comprometer la validez de los resultados. Por ello, es clave entender **su origen, impacto y tratamiento adecuado**.
 
@@ -19,10 +19,10 @@ Es por esto que se realiza este ejemplo, para comprender e identificar lo que pu
 ## 🎯 Objetivo del Análisis
 Evaluar la gestión de los **datos faltantes** considerando:
 
-- 📊 Identificar la proporción de valores ausentes en el dataset  
-- 📈 Analizar su impacto en métricas descriptivas y modelos predictivos  
-- 🔍 Revisar métodos de imputación estadística (media, mediana, moda)  
-- 🤖 Explorar técnicas avanzadas basadas en algoritmos predictivos (ej. KNN)  
+- 📊 Identificar la proporción de valores ausentes en el dataset.
+- 📈 Analizar su impacto en métricas descriptivas y modelos predictivos.
+- 🔍 Revisar métodos de imputación estadística (media, mediana, moda).
+- 🤖 Explorar técnicas avanzadas basadas en algoritmos predictivos (ej. KNN).
 
 Dicho análisis se realiza en la modificación de una data completa, a la cual se le elimina ciertos datos para poder lograr el objetivo
 
