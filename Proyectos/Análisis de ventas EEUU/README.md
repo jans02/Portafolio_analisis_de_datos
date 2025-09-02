@@ -11,7 +11,7 @@ El análisis contempla:
 - Variación presupuestaria
 - Ventas por oficina  
 - Desempeño de cada vendedor  
-- Ventas distribuidas ppor estado  
+- Ventas distribuidas por estado  
 - Cumplimiento mensual respecto al presupuesto  
 - Eficiencia operativa (unidades y tiempos de entrega)  
 
@@ -49,9 +49,9 @@ Evaluar el desempeño de ventas durante 2022, considerando:
 
 ## 📋 Conclusiones
 ✅ El cuatrienio cerró con **utilidad sólida y sobrecumplimiento presupuestario (+4,34%)**.  
-✅ Los vendedores mas destacadsos por su liderazgo claro de Anna Andrews y Chuck Magee.  
+✅ Los vendedores más destacados por su liderazgo claro de Anna Andrews y Chuck Magee.  
 ✅ **Los estados de Washington, Pennsylvania y Michigan impulsan el crecimiento**.  
-✅ El portafolio de la compañia se encuentra concentrado en 3 productos principales.  
+✅ El portafolio de la compañía se encuentra concentrado en 3 productos principales.  
 
 ---
 
