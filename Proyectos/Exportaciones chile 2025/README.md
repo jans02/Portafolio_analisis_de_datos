@@ -4,9 +4,12 @@
 
 ## 📝 Contexto del Problema
 El análisis de exportaciones es clave para entender el flujo comercial de Chile hacia diferentes países.  
+
 Mediante un **EDA (Exploratory Data Analysis)** se pueden detectar patrones, identificar mercados clave, analizar productos estratégicos y evaluar la contribución regional.  
 
 Durante el proceso también se revisa la **calidad de los datos**, como valores faltantes o atípicos, ya que pueden distorsionar el análisis y afectar la toma de decisiones.
+
+El análisis principal se encuentra en el siguiente collab
 
 ---
 
