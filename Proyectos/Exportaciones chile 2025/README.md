@@ -9,7 +9,7 @@ Mediante un **EDA (Exploratory Data Analysis)** se pueden detectar patrones, ide
 
 Durante el proceso también se revisa la **calidad de los datos**, como valores faltantes o atípicos, ya que pueden distorsionar el análisis y afectar la toma de decisiones.
 
-El análisis principal se encuentra en el siguiente collab
+El análisis principal se encuentra [aquí](https://colab.research.google.com/drive/1VFe5Pya5vo8RkiiyUA2BplUHR_XKccFC?usp=sharing)
 
 ---
 
