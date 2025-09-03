@@ -26,7 +26,7 @@ Evaluar la gestión de los **datos faltantes** considerando:
 
 Dicho análisis se realiza en la modificación de una data completa, a la cual se le elimina ciertos datos para poder lograr el objetivo
 
-Este procedimiento se puede encontrar en el [siguiente Collab](https://colab.research.google.com/drive/1hSh3hYJDZ3gYiVDcU23w-LVVN-oMBv6i?usp=sharing)
+Este procedimiento se puede encontrar [aquí](https://colab.research.google.com/drive/1hSh3hYJDZ3gYiVDcU23w-LVVN-oMBv6i?usp=sharing)
 
 ---
 
